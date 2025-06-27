@@ -1,0 +1,6 @@
+```txt
+transformers
+bert_score
+torch
+pandas
+```
